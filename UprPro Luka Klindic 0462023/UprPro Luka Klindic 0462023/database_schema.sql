@@ -1,4 +1,0 @@
--- UprPro sada koristi lokalnu SQLite bazu.
--- Baza se automatski kreira pri prvom pokretanju aplikacije u:
--- %LOCALAPPDATA%\UprPro\UprPro.db
--- Nije potrebno pokretati ovaj fajl niti instalirati SQL Server.
